@@ -1,5 +1,5 @@
 ## Hi there 👋
-![chaewon2ee](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+![readme.md](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
