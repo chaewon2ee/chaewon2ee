@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=none&text=BikiniCity&fontSize=40&animation=twinkling)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
