@@ -1,16 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=F0EAE7&text=Chaewon%20Lee&height=180&fontSize=50&desc=통계%20꿈나무&descAlignY=75&descAlign=50)
 
-    </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-         <a href=dlcodnjs0524@naver.com> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= dlcodnjs0524@naver.com"> </a>
+         <a href=dlcodnjs0524@naver.com> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=dlcodnjs0524@naver.com"> </a>
          <a href=https://www.instagram.com/cnexxv> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/cnexxv"> </a>
          <a href=mailto:ch1@uos.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ch1@uos.ac.kr"> </a>
           </div><br>
     <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
 <p align="center">
-  <Strong> 자 신 의 이 메 일 아 이 디 </Strong>
+  <Strong> ch1@uos.ac.kr </Strong>
 </p><br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
