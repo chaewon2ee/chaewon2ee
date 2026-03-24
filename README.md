@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=F0EAE7&text=Chaewon%20Lee&height=180&fontSize=50&desc=통계%20꿈나무&descAlignY=75&descAlign=50)
 
-## 👋 About Me
+## About Me 🍒
 
 M.S. Student in Statistics and Data Science, University of Seoul (in progress) 😴  
 B.S. in Statistics and Data Science, Pukyong National University 👩🏻‍🎓  
 
-## 📊 Interests
+## Interests
 - Time Series Analysis  
 - Panel Regression  
 - Spatio-Temporal Modeling  
@@ -25,9 +25,6 @@ B.S. in Statistics and Data Science, Pukyong National University 👩🏻‍🎓
 
 <a href="https://www.instagram.com/cnexxv">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="mailto:dlcodnjs0524@naver.com">
-  <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 </a>
 <a href="https://www.notion.so/Notion-32d524b0622080dcb423c798283e608c">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
