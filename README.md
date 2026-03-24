@@ -21,25 +21,27 @@ B.S. in Statistics and Data Science, Pukyong National University 👩🏻‍🎓
 
 ---
 
-## 🧑‍💻 Personal site
+## 🔗 Links
 
-<a href="mailto:ch1@uos.ac.kr">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>
 <a href="https://www.instagram.com/cnexxv">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="mailto:dlcodnjs0524@naver.com">
   <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 </a>
-<a href="https://www.notion.so/(https://www.notion.so/Notion-32d524b0622080dcb423c798283e608c)">
+<a href="https://www.notion.so/Notion-32d524b0622080dcb423c798283e608c">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
 </a>
 ---
 
 ## 📧 Email
 
-**ch1@uos.ac.kr**
+<a href="mailto:ch1@uos.ac.kr">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>   <a href="mailto:dlcodnjs0524@naver.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
 
 ---
 
