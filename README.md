@@ -15,6 +15,12 @@ B.S. in Statistics and Data Science, Pukyong National University 👩🏻‍🎓
 
 ---
 
+## ✨ Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+---
+
 ## 🧑‍💻 Contact me
 
 <a href="mailto:ch1@uos.ac.kr">
@@ -29,15 +35,6 @@ B.S. in Statistics and Data Science, Pukyong National University 👩🏻‍🎓
 ## 📧 Email
 
 **ch1@uos.ac.kr**
-
----
-
-## ✨ Tech Stack
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ---
 
