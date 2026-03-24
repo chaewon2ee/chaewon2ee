@@ -10,7 +10,8 @@ B.S. in Statistics and Data Science, Pukyong National University 👩🏻‍🎓
 - Panel Regression  
 - Spatio-Temporal Modeling  
 
-## 🥚 (I'm here!) → 🐣 → 🐥 → 🐓 → 🦖
+## Level
+###🥚 → 🐣 (I'm here!) → 🐥 → 🐓 → 🦖
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
