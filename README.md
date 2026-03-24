@@ -1,6 +1,7 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=F0EAE7&height=200&section=header&text=ChaeWon%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ChaeWon%20Github!&fontSize=90" />	
 </div>
+
 ## About Me 🍒
 
 M.S. Student in Statistics and Data Science, University of Seoul (in progress) 😴  
