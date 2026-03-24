@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=F0EAE7&text=Chaewon%20Lee&height=180&fontSize=50&desc=통계%20꿈나무&descAlignY=75&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=F0EAE7&text=Chaewon%20Lee&height=180&fontSize=50&desc=통계%20꿈나무🌳&descAlignY=75&descAlign=50)
 
 ## About Me 🍒
 
