@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=white&text=BikiniCity&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=BikiniCity&fontSize=40&animation=twinkling)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
