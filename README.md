@@ -5,6 +5,7 @@
 ## About Me 🍒
 
 M.S. Student in Statistics and Data Science, University of Seoul (in progress) Researcher at IDEA Lab 
+
 B.S. in Statistics and Data Science, Pukyong National University 👩🏻‍🎓  
 
 ## Interests
