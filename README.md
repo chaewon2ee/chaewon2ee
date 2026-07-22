@@ -4,13 +4,15 @@
 
 ## About Me 🍒
 
-M.S. Student in Statistics and Data Science, University of Seoul (in progress) 😴  
+M.S. Student in Statistics and Data Science, University of Seoul (in progress) Researcher at IDEA Lab 
 B.S. in Statistics and Data Science, Pukyong National University 👩🏻‍🎓  
 
 ## Interests
-- Time Series Analysis  
-- Panel Regression  
-- Spatio-Temporal Modeling  
+- Spatial Data Analysis
+- Sequential Response Sampling
+- Optimal subsampling
+- Modeling under Measurement Constraints
+- Spatio-Temporal Modeling
 
 ## Growth stage
 🥚 → 🐣 (I'm here!) → 🐥 → 🐓 → 🦖
