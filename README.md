@@ -49,4 +49,3 @@ B.S. in Statistics and Data Science, Pukyong National University 👩🏻‍🎓
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewon2ee&show_icons=true&theme=radical)
