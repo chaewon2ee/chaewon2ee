@@ -28,9 +28,6 @@ B.S. in Statistics and Data Science, Pukyong National University 👩🏻‍🎓
 
 ## 🔗 Links
 
-<a href="https://www.instagram.com/cnexxv">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 <a href="https://www.notion.so/Notion-32d524b0622080dcb423c798283e608c">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
